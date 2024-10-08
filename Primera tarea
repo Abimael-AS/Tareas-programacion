@@ -1,0 +1,8 @@
+public class tutorial {
+
+    public static void main(String[] args) {
+        
+        String hola = "hola me llamo Abimael";
+        System.out.println(hola);
+    }
+}
